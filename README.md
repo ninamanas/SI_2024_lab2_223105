@@ -3,7 +3,7 @@
 Група: ПИТ-3
 
 Control Flow Graph
-!(https://github.com/ninamanas/SI_2024_lab2_223105/blob/master/CFG.drawio.png)
+![finalv2](https://github.com/ninamanas/SI_2024_lab2_223105/blob/master/CFG.drawio.png)
 
 Цикломатска комплексност
 Цикломатската комплексност на овој код е 10, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=9, па цикломатската комплексност изнесува 10.
