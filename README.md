@@ -3,7 +3,7 @@
 Група: ПИТ-3
 
 2.Control Flow Graph
-![finalv2](https://github.com/ninamanas/SI_2024_lab2_223105/blob/master/CFG.drawio.png)
+![finalv2](https://github.com/ninamanas/SI_2024_lab2_223105/blob/master/cfg.drawio%20(1).png)
 
 3.Цикломатска комплексност
 
